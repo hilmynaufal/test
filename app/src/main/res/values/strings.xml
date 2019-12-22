@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="app_title">QUICK MEDICAL</string>
+    <string name="app_title_newline">QUICK\nMEDICAL</string>
+</resources>
